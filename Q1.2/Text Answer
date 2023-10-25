@@ -1,0 +1,3 @@
+Another possible to check prime when we know that our input is 4-bit is storing all the primes in an array as the range is from 0 to just 15 the search through the array won’t take much complexity.
+
+The actuator used is an LED bulb that glows when the input number is prime. Another possible actuator could be a buzzer.
